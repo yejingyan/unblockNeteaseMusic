@@ -69,7 +69,7 @@ proxies:
 # clash 额外支持 chacha20 rc4-md5 xchacha20-ietf-poly1305 加密方式
 
 #  http
-  - {name: 🎵 解锁节点,type: http ,server: 39.106.97.94 , port: 108}
+  - {name: 🎵 解锁节点,type: http ,server: 39.106.97.94 , port: 3333}
 
 proxy-groups:
   - name: UnblockNeteaseMusic
